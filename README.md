@@ -1,5 +1,5 @@
 <h1 align="left">MOKLET MONEY</h1>
-<h3 align="left">Website using PHP CSS JS HTML MySQL</h3>
+<h3 align="left">Website using PHP JS CSS BOOTSTRAP HTML MySQL</h3>
 <h4 align="left">Template Design : <a href="https://startbootstrap.com/theme/sb-admin-2">https://startbootstrap.com/theme/sb-admin-2</a></h4>
 
 <h2 align="left">Halaman Login Admin dan Petugas</h2>
@@ -34,3 +34,13 @@
 
 <h2 align="left">Halaman Cetak</h2>
 <img src="https://user-images.githubusercontent.com/71278187/153735961-af7aa18d-ac6d-4727-ab68-7d13a61ca05b.png" />
+
+<h3 align="center">Languages and Tools :</h3>
+<p align="center"> 
+<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
+</p>

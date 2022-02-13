@@ -33,4 +33,4 @@
 <img src="https://user-images.githubusercontent.com/71278187/153735897-7e90d773-156c-4026-bbba-76ffdf8ca09e.png" />
 
 <h2 align="left">Halaman Cetak</h2>
-<img src="(https://user-images.githubusercontent.com/71278187/153735961-af7aa18d-ac6d-4727-ab68-7d13a61ca05b.png" />
+<img src="https://user-images.githubusercontent.com/71278187/153735961-af7aa18d-ac6d-4727-ab68-7d13a61ca05b.png" />
